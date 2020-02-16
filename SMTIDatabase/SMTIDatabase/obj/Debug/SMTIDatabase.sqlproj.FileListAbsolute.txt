@@ -1,0 +1,6 @@
+C:\Users\Machine\Desktop\SMTIDatabase\SMTIDatabase\bin\Debug\SMTIDatabase.dacpac
+C:\Users\Machine\Desktop\SMTIDatabase\SMTIDatabase\bin\Debug\SMTIDatabase.dll
+C:\Users\Machine\Desktop\SMTIDatabase\SMTIDatabase\bin\Debug\SMTIDatabase.pdb
+C:\Users\Machine\Desktop\SMTIDatabase\SMTIDatabase\obj\Debug\SMTIDatabase.sqlprojAssemblyReference.cache
+C:\Users\Machine\Desktop\SMTIDatabase\SMTIDatabase\obj\Debug\SMTIDatabase.dll
+C:\Users\Machine\Desktop\SMTIDatabase\SMTIDatabase\obj\Debug\SMTIDatabase.pdb
